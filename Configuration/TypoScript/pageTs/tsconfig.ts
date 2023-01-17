@@ -10,7 +10,7 @@ tx_gridelements {
         # mixed; This will be the layout ID. It can be a string or a integer.
         2cols {
             # string; "LLL:" can be used.
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:2cols.title
+            title = 2 cols / 2 Spalten
             # string; "LLL:" can be used.
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:2cols.description
             iconIdentifier = tx-bootstrapgrids-col2
@@ -43,7 +43,7 @@ tx_gridelements {
         }
 
         3cols {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:3cols.title
+            title = 3 cols / 3 Spalten
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:3cols.description
             iconIdentifier = tx-bootstrapgrids-col3
             frame = 3
@@ -72,7 +72,7 @@ tx_gridelements {
         }
 
         4cols {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:4cols.title
+            title = 4 cols / 4 Spalten
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:4cols.description
             iconIdentifier = tx-bootstrapgrids-col4
             frame = 3
@@ -103,7 +103,7 @@ tx_gridelements {
         }
 
         tabsSimple {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabsSimple.title
+            title = Tabs from content / Tabs aus dem Inhalt
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabsSimple.description
             iconIdentifier = tx-bootstrapgrids-simpletabs
             frame = 2
@@ -120,7 +120,7 @@ tx_gridelements {
         }
 
         tabs4 {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabs4.title
+            title = Tabs (4)
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabs4.description
             iconIdentifier = tx-bootstrapgrids-tabs4
             frame = 2
@@ -151,7 +151,7 @@ tx_gridelements {
         }
 
         tabs6 {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabs6.title
+            title = Tabs (6)
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:tabs6.description
             iconIdentifier = tx-bootstrapgrids-tabs6
             frame = 2
@@ -190,7 +190,7 @@ tx_gridelements {
         }
 
         accordion {
-            title = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:accordion.title
+            title = Accordion from content / Accordion aus dem Inhalt
             description = LLL:EXT:bootstrap_grids/Resources/Private/Language/locallang_db.xlf:accordion.description
             iconIdentifier = tx-bootstrapgrids-accordion
             frame = 2
